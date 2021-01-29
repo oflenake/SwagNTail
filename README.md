@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-    <a href="https://visiondream.lenake.co/" target="_blank">
+    <a href="https://visiondream.lenake.co/">
       <img src="https://assets.visiondream.lenake.co/static/branding/logo.svg" alt="VisionDream" height="72">
     </a>
   </p>
@@ -9,9 +9,9 @@
   </p>
 </p>
 
-# Getting started with Django SNT (DJSNT) Demo
+# Django Swag 'n Tail Motor Spares Demo
 
-This is the code from the Swag 'n Tail Motor Sparesd demo project found on VisionDream
+This is the code from the Django Swag 'n Tail Motor Spares demo project found on VisionDream
 
 ---
 

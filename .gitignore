@@ -137,3 +137,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 /.vs/slnx.sqlite
+
+# Microsoft Visual Studio project settings
+/.vs
+/.vs/slnx.sqlite
